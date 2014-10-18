@@ -1,5 +1,6 @@
 runtasticapi
 ============
+This is only a hack and no offical API
 
 Java port of https://github.com/timoschlueter/php-runtastic
 Activity has all the properties as String
