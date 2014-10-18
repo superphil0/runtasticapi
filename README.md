@@ -8,7 +8,9 @@ Activity has all the properties as String
 
 ### List<Activity> getActivitiesOfUser(email, password)
 
-***
+
+
+
 ##Dependencies
 (tested versions)
 * OKHTTP 2.0.0
